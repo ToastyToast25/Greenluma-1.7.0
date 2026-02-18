@@ -1,6 +1,9 @@
 # Greenluma-1.7.0
 Ultimate Steam Bypass
 
+Use this repo for GUI
+https://github.com/3vil3vo/GreenLuma-Manager
+
 
 ***************************************************************
 * GreenLuma 2025 1.7.0                                        *
