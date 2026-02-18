@@ -4,6 +4,8 @@ Ultimate Steam Bypass
 Use this repo for GUI
 https://github.com/3vil3vo/GreenLuma-Manager
 
+INDEPTH GUIDE REDDIT LINK
+https://www.reddit.com/r/PiratedGames/comments/1pyf0p0/comment/o4y63kb/?context=3
 
 ***************************************************************
 * GreenLuma 2025 1.7.0                                        *
