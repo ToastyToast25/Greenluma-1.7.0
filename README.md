@@ -10,6 +10,9 @@ https://www.reddit.com/r/PiratedGames/comments/1pyf0p0/comment/o4y63kb/?context=
 Use this website for manifests (Brave browser recommended)
 https://kernelos.org/games/
 
+SteamDB is your friend when it comes to finding APPID's
+https://steamdb.info/
+
 ***************************************************************
 * GreenLuma 2025 1.7.0                                        *
 * by Steam006                                                 *
