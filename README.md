@@ -7,7 +7,7 @@ https://github.com/3vil3vo/GreenLuma-Manager
 INDEPTH GUIDE REDDIT LINK
 https://www.reddit.com/r/PiratedGames/comments/1pyf0p0/comment/o4y63kb/?context=3
 
-Use this website for manifests
+Use this website for manifests (Brave browser recommended)
 https://kernelos.org/games/
 
 ***************************************************************
